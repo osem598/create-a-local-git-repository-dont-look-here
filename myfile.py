@@ -1,1 +1,1 @@
-print("penis ahahahhahahaahhahha balls coch ahahahahahhahaha")
+print("ahahahhahahahhahaah")
